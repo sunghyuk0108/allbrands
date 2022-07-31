@@ -1,9 +1,19 @@
 # main links
 main:
-  - title: "category"
-    url: /categories/
-  - title: "tag"
-    url: /tags/
+  - title : "category"
+    url : /categories/
+  - title : "tag"
+    url : /tags/
+  - title : "search"
+    url : /search/
+
+docs :
+- title : "대목차"
+  children : 
+    - title : "category"
+      url : /categories/
+    - title : "tag"
+      url : /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
