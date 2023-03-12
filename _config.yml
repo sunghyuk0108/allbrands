@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ALLBRANDS"
+title                    : "MOMO Development Blog"
 title_separator          : "|"
 subtitle                 : "Introduced by momo"
-name                     : "momo"
-description              : "모모가 소개하는 브랜드 스토리"
+name                     : "MOMO"
+description              : "모모의 개발 블로그"
 url                      : "https://sunghyuk0108.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "allbrands"
+    shortname            : "momo의 개발 블로그"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "MOMO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "모모가 소개하는 브랜드 스토리"
+  bio              : "모모의 개발 블로그"
   location         : "South Korea"
   email            :
   links:
