@@ -95,3 +95,7 @@ useEffect 사용 시 useEffect(실행할 함수, [의존성 배열명])으로 �
 두번째 인자인 의존성 배열에 넣는 값은 의존성 배열안에 넣은 값이 변경될 때만 useEffect의 함수가 작동되게할 수 있음.
 
 * useEffect를 사용할 때, 주의할 점 useEffect 함수 내에서 state를 변경하면 무한 루프가 발생할 수 있다. 이를 방지하기 위해서는 useEffect 함수 내에서 state를 변경하지 않고, useEffect 함수가 의존하는 state를 dependencies (의존성) 배열에 포함해야 합니다.
+
+
+[REACT 공식 useEffect 설명으로 이동](https://ko.reactjs.org/docs/hooks-reference.html#useeffect)
+
