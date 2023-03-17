@@ -2,7 +2,7 @@
 layout: single
 title: "REACT Portals"
 categories: "react"
-tag: [react, javascript]
+tag: [react]
 toc: true
 author_profile: false
 sidebar:
